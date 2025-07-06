@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eff2ef;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+button {
+  border: none;
+  background: transparent;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.main-container {
+  height: 100vh;
+}
+
+.menu-bar {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  padding: 1rem;
+}
+
+.menu {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.side-bar-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  width: 50%;
+  height: 100%;
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+
+.side-bar-logo {
+  display: flex;
+  padding: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cross-button {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.logo {
+  color: skyblue;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  letter-spacing: 0.1rem;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.list-container li {
+  transition: all 0.3s linear;
+  display: flex; 
+  height: 3rem; 
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.list-container li:hover {
+  background: skyblue;
+}
+
+.logo-container {
+  position: absolute;
+  left: 30%;
+  bottom: 2rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.show-side-bar-container {
+  display: none;
+}

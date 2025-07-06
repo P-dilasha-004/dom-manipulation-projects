@@ -54,3 +54,11 @@ To try out the project locally:
 
       - Click the button in the Simple Color Flipper to change the background color.
       - See the randomly generated HEX value in the Hex Color Flipper and copy it if needed.
+
+## Author
+
+**Dilasha Pant** – [pantdilasha2@gmail.com](mailto:pantdilasha2@gmail.com)
+
+Project Link: [https://github.com/P-dilasha-004/dom-manipulation-projects](https://github.com/P-dilasha-004/dom-manipulation-projects)
+
+Made with ❤️ by Dilasha Pant

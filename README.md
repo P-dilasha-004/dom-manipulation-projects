@@ -59,4 +59,20 @@ To run any of these projects locally:
 
    ```bash
    open index.html
-   
+
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgement
+
+I would like to thank the JavaScript community and the MDN Web Docs for their valuable resources and tutorials that have greatly helped me learn and improve my DOM manipulation skills.
+
+## Author
+
+**Dilasha Pant** – [pantdilasha2@gmail.com](mailto:pantdilasha2@gmail.com)
+
+Project Link: [https://github.com/P-dilasha-004/dom-manipulation-projects](https://github.com/P-dilasha-004/dom-manipulation-projects)
+

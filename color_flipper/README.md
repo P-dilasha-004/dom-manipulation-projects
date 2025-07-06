@@ -10,6 +10,10 @@ This repository contains two Color Flipper applications built using vanilla Java
 
 2. **Hex Color Flipper**: This version generates a random color in **HEX format** and displays the value to the user.
 
+## Preview 
+
+![Color Flipper Preview](color_flipper/images/color-flipper-preview.png)
+
 ### Features:
 - **Simple Color Flipper**:
   - Generates a random background color.

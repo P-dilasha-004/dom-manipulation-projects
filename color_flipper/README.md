@@ -61,5 +61,6 @@ To try out the project locally:
 
 Project Link: [https://github.com/P-dilasha-004/dom-manipulation-projects](https://github.com/P-dilasha-004/dom-manipulation-projects)
 
+---
 
 Made with ♥️ by Dilasha Pant

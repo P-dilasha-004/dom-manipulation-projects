@@ -12,7 +12,7 @@ This repository contains two Color Flipper applications built using vanilla Java
 
 ## Preview 
 
-![Color Flipper Preview](color_flipper/images/color-flipper-preview.png)
+![Color Flipper Preview](color_flipper/images/color_flipper_preview.png)
 
 ### Features:
 - **Simple Color Flipper**:

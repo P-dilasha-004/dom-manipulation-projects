@@ -46,7 +46,7 @@ To try out the project locally:
 
 4. Start Interacting!
 
-  Once the page is open, you’ll be able to interact with the Color Flipper applications:
+    Once the page is open, you’ll be able to interact with the Color Flipper applications:
 
-  - Click the button in the Simple Color Flipper to change the background color.
-  - See the randomly generated HEX value in the Hex Color Flipper and copy it if needed.
+      - Click the button in the Simple Color Flipper to change the background color.
+      - See the randomly generated HEX value in the Hex Color Flipper and copy it if needed.
